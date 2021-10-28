@@ -1,6 +1,8 @@
 import requests
 from datetime import datetime
 
+"""Вывод валюты на указанную дату"""
+
 
 def currency_rates(value):
     URL = 'http://www.cbr.ru/scripts/XML_daily.asp'

@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+"""Модуль utils показвает курс валюты на сегодняшнуюю дату"""
 
 
 def currency_rates(value):
