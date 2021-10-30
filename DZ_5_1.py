@@ -1,5 +1,5 @@
 from itertools import islice
-
+"""Генерирует список нечетных чисел"""
 
 def count(n):
     for num in range(1, n + 1, 2):
