@@ -1,3 +1,4 @@
+
 def parce(srting):
     remote_addr = ''
     request_type = ''
