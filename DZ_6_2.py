@@ -1,3 +1,4 @@
+
 def parce(srting):
     ip = ''
     ip_end = ' - -'

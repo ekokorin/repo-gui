@@ -1,3 +1,4 @@
+
 def parc(str):
     list_1 = []
     i = 0
