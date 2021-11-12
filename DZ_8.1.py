@@ -14,5 +14,5 @@ def email_parse(email_address):
     print(s)
 
 
-a = input('input  e-mail: ')
+a = input('input e-mail: ')
 email_parse(a)
