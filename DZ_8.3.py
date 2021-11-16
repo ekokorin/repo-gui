@@ -19,5 +19,5 @@ def calc_cube(x):
 
 
 print(calc_cube(8))
-print(calc_cube(5, 6, 10.5, 0.5))
+print(calc_cube(5, 6, 10.5))
 print(calc_cube(a=10.6, b=9, c=1.5))
